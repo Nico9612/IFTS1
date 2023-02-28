@@ -1,4 +1,2 @@
 test per il primo tutorial
 update del file
-
-aggiunto da github
